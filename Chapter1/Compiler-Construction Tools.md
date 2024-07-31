@@ -1,0 +1,10 @@
+- **Parser generators**:
+	- automatically produce syntax analysers from a grammatical description of a programming language.
+- **Scanner generators**:
+	- produce lexical analyzers from a regular-expression description of the tokens of a language.
+- **Syntax-directed translation engines**:
+	- produce a code generator from a collection of routines for walking a oarse tree and generating intermediate code.
+- **Data-flow analysis engines**:
+	- facilitate the gathering of info about how values are transmitted from one part to each other part of the program. This is a key part of code optimization.
+- **Compiler-construction toolkits**:
+	- provide an integrated set of routines for constructing various phases of a compiler.

@@ -1,0 +1,5 @@
+- high level prog languages define a programming abstraction
+- the programmer expresses an algorithm using the language, the compiler translates the program to the target language.
+- Generally, high-level lang are easier to program but less efficient, the target programs run more slowly.
+- Low-level languages can in principle produce more efficient code because they have more control over a computation, but are much harder to write, error-prone, hard to maintain.
+- Optimising compilers include techniques to improve the performance of generated code, offsetting the inefficiency introduced by high-level abstractions.

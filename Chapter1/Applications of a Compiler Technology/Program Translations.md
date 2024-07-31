@@ -1,0 +1,9 @@
+- Binary Translation
+	- compiler technology can be used to translate the binary code for one machine to that of another, allowing a machine to run programs originally compiled for another instruction set.
+- Hardware Synthesis
+- Database Query Interpreters
+	- SQL can be interpreted or compiled into commands to search for records.
+- Compiled Simulation
+	- instead of writing a simulator that interprets the design, it is faster to compile the design to produce machine code that simulates that particular design natively.
+	- Compiled simulation can run orders of magnitudes faster than an interpreter-based approach.
+	- used in simulating designs written in Verilog or VHDL.
