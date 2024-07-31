@@ -17,4 +17,6 @@ Required [Community Plugin](https://obsidian.md/plugins):
 
 If you have any questions, feel free to reach out:
 
-- **Chin Wei Han**: chinweihan28@gmail.com
+- **Chin Wei Han**
+- Email: chinweihan28@gmail.com
+- GitHub: [weihan28](https://github.com/weihan28)
