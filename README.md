@@ -13,10 +13,3 @@ I will reorganize and compile all exercise answers into a webpage when I complet
 Required [Community Plugin](https://obsidian.md/plugins):
 - [Excalidraw](https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367)
 
-## 📬 Contact
-
-If you have any questions, feel free to reach out:
-
-- **Chin Wei Han**
-- Email: chinweihan28@gmail.com
-- GitHub: [weihan28](https://github.com/weihan28)
